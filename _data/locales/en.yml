@@ -5,11 +5,10 @@ tabs:
   archives: "Zeitschrein"
   about: "Instanzleitung"
 
-  search:
+search:
   hint: "Spurensuche..."
   no_results: "Keine Spuren gefunden."
   results_found: "Ergebnisse gefunden:"
-
 
 categories:
   Orakelpfad: "Orakelpfad"
