@@ -9,3 +9,14 @@ tabs:
   hint: "Spurensuche..."
   no_results: "Keine Spuren gefunden."
   results_found: "Ergebnisse gefunden:"
+
+
+categories:
+  Orakelpfad: "Orakelpfad"
+  Alltagsinstanz: "Alltagsinstanz"
+  Echozone: "Echozone"
+  Gedankenquest: "Gedankenquest"
+  Wortarena: "Wortarena"
+  Liedkristalle: "Liedkristalle"
+  Cinecodex: "Cinecodex"
+  Seitenhort: "Seitenhort"
