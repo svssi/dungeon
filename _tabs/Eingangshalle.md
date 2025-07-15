@@ -1,5 +1,5 @@
 ---
 layout: home
-icon: home
+icon: index
 order: 0
 ---
