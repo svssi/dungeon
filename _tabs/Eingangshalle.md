@@ -1,5 +1,5 @@
 ---
 layout: home
-icon: index
+icon: fas fa-home
 order: 0
 ---
