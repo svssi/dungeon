@@ -1,0 +1,19 @@
+- name: Eingangshalle
+  path: /
+  icon: home
+
+- name: Kammern
+  path: /categories/
+  icon: list
+
+- name: Runen
+  path: /tags/
+  icon: tag
+
+- name: Zeitschrein
+  path: /archives/
+  icon: archive
+
+- name: Instanzleitung
+  path: /about/
+  icon: info
