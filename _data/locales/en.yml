@@ -4,3 +4,8 @@ tabs:
   tags: "Runen"
   archives: "Zeitschrein"
   about: "Instanzleitung"
+
+  search:
+  hint: "Spurensuche..."
+  no_results: "Keine Spuren gefunden."
+  results_found: "Ergebnisse gefunden:"
