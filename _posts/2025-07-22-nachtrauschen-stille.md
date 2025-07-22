@@ -3,7 +3,7 @@ layout: post
 title: "Der Riss in der Stille"
 date: 2025-07-22 00:22:00 +0300
 categories: [Nachtrauschen]
-tags: [Nacht, Gedanken, Chaos]
+tags: [Nacht,Gedanken,Chaos]
 ---
 
 Zuerst sollte ich sagen, dass ich nicht weiß, warum ich diesen Text schreibe. Das Thema oder der Titel war nicht meine Idee, sondern die von Chatgpt.
